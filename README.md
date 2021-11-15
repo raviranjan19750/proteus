@@ -1,5 +1,5 @@
 <h1>
-  <img src="/assets/proteus-logo.png" width="150px"/> : Android Layout Engine
+  <img src="/assets/proteus-logo.png" width="150px"/> : Android Layout Engine. 
 </h1>
 
 <a target="_blank" href="https://travis-ci.org/flipkart-incubator/proteus">
